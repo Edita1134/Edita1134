@@ -213,8 +213,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Edita1134&show_icons=true&locale=en&layout=compact" alt="Edita1134" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakshith2001&show_icons=true&locale=en" alt="rakshith2001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Edita1134&show_icons=true&locale=en" alt="Edita1134" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakshith2001&" alt="rakshith2001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Edita1134&" alt="Edita1134" /></p>
 
 
